@@ -14,3 +14,4 @@ C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\obj
 C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\obj\Debug\net8.0-windows\WordHyperlinkFixer.pdb
 C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\obj\Debug\net8.0-windows\WordHyperlinkFixer.genruntimeconfig.cache
 C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\obj\Debug\net8.0-windows\ref\WordHyperlinkFixer.dll
+C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\obj\Debug\net8.0-windows\WordHyperlinkFixer.sourcelink.json

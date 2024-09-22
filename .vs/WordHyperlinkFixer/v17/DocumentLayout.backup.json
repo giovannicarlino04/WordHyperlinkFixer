@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Giovanni\\Desktop\\Repositories\\WordHyperlinkFixer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6072E278-5314-410B-A3D6-332AB7D75F0D}|WordHyperlinkFixer\\WordHyperlinkFixer.csproj|C:\\Users\\Giovanni\\Desktop\\Repositories\\WordHyperlinkFixer\\wordhyperlinkfixer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6072E278-5314-410B-A3D6-332AB7D75F0D}|WordHyperlinkFixer\\WordHyperlinkFixer.csproj|solutionrelative:wordhyperlinkfixer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6072E278-5314-410B-A3D6-332AB7D75F0D}|WordHyperlinkFixer\\WordHyperlinkFixer.csproj|c:\\users\\giovanni\\desktop\\repositories\\wordhyperlinkfixer\\wordhyperlinkfixer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6072E278-5314-410B-A3D6-332AB7D75F0D}|WordHyperlinkFixer\\WordHyperlinkFixer.csproj|solutionrelative:wordhyperlinkfixer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6072E278-5314-410B-A3D6-332AB7D75F0D}|WordHyperlinkFixer\\WordHyperlinkFixer.csproj|C:\\Users\\Giovanni\\Desktop\\Repositories\\WordHyperlinkFixer\\wordhyperlinkfixer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6072E278-5314-410B-A3D6-332AB7D75F0D}|WordHyperlinkFixer\\WordHyperlinkFixer.csproj|solutionrelative:wordhyperlinkfixer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6072E278-5314-410B-A3D6-332AB7D75F0D}|WordHyperlinkFixer\\WordHyperlinkFixer.csproj|c:\\users\\giovanni\\desktop\\repositories\\wordhyperlinkfixer\\wordhyperlinkfixer\\wordhyperlinkfixer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6072E278-5314-410B-A3D6-332AB7D75F0D}|WordHyperlinkFixer\\WordHyperlinkFixer.csproj|solutionrelative:wordhyperlinkfixer\\wordhyperlinkfixer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\Repositories\\WordHyperlinkFixer\\WordHyperlinkFixer\\Form1.cs",
-              "RelativeDocumentMoniker": "WordHyperlinkFixer\\Form1.cs",
-              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\Repositories\\WordHyperlinkFixer\\WordHyperlinkFixer\\Form1.cs",
-              "RelativeToolTip": "WordHyperlinkFixer\\Form1.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAnwAkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T11:11:27.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form1.cs [Progettazione]",
               "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\Repositories\\WordHyperlinkFixer\\WordHyperlinkFixer\\Form1.cs",
               "RelativeDocumentMoniker": "WordHyperlinkFixer\\Form1.cs",
@@ -48,6 +35,35 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-22T11:08:16.705Z",
               "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordHyperlinkFixer",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\Repositories\\WordHyperlinkFixer\\WordHyperlinkFixer\\WordHyperlinkFixer.csproj",
+              "RelativeDocumentMoniker": "WordHyperlinkFixer\\WordHyperlinkFixer.csproj",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\Repositories\\WordHyperlinkFixer\\WordHyperlinkFixer\\WordHyperlinkFixer.csproj",
+              "RelativeToolTip": "WordHyperlinkFixer\\WordHyperlinkFixer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-22T17:59:46.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\Repositories\\WordHyperlinkFixer\\WordHyperlinkFixer\\Form1.cs",
+              "RelativeDocumentMoniker": "WordHyperlinkFixer\\Form1.cs",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\Repositories\\WordHyperlinkFixer\\WordHyperlinkFixer\\Form1.cs",
+              "RelativeToolTip": "WordHyperlinkFixer\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAnwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:11:27.333Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WordHyperlinkFixer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c15b48290ec35d9a3a99726140aee6d3f46b95d")]
 [assembly: System.Reflection.AssemblyProductAttribute("WordHyperlinkFixer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WordHyperlinkFixer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

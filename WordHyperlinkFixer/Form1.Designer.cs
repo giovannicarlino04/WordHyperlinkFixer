@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             textBox1 = new TextBox();
             textBox2 = new TextBox();
             button1 = new Button();
@@ -37,24 +38,27 @@
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(54, 161);
+            textBox1.Location = new Point(47, 121);
+            textBox1.Margin = new Padding(3, 2, 3, 2);
             textBox1.Name = "textBox1";
             textBox1.ReadOnly = true;
-            textBox1.Size = new Size(299, 27);
+            textBox1.Size = new Size(262, 23);
             textBox1.TabIndex = 0;
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(54, 112);
+            textBox2.Location = new Point(47, 84);
+            textBox2.Margin = new Padding(3, 2, 3, 2);
             textBox2.Name = "textBox2";
-            textBox2.Size = new Size(299, 27);
+            textBox2.Size = new Size(262, 23);
             textBox2.TabIndex = 0;
             // 
             // button1
             // 
-            button1.Location = new Point(54, 223);
+            button1.Location = new Point(47, 167);
+            button1.Margin = new Padding(3, 2, 3, 2);
             button1.Name = "button1";
-            button1.Size = new Size(299, 29);
+            button1.Size = new Size(262, 22);
             button1.TabIndex = 1;
             button1.Text = "Generate";
             button1.UseVisualStyleBackColor = true;
@@ -63,17 +67,18 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(59, 87);
+            label1.Location = new Point(52, 65);
             label1.Name = "label1";
-            label1.Size = new Size(46, 20);
+            label1.Size = new Size(38, 15);
             label1.TabIndex = 2;
             label1.Text = "Input:";
             // 
             // button2
             // 
-            button2.Location = new Point(54, 258);
+            button2.Location = new Point(47, 194);
+            button2.Margin = new Padding(3, 2, 3, 2);
             button2.Name = "button2";
-            button2.Size = new Size(299, 29);
+            button2.Size = new Size(262, 22);
             button2.TabIndex = 1;
             button2.Text = "Copy";
             button2.UseVisualStyleBackColor = true;
@@ -81,14 +86,16 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(408, 314);
+            ClientSize = new Size(357, 303);
             Controls.Add(label1);
             Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
+            Margin = new Padding(3, 2, 3, 2);
             Name = "Form1";
             Text = "HyperlinkFixer";
             ResumeLayout(false);
