@@ -1,0 +1,16 @@
+C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\bin\Debug\net8.0-windows\WordHyperlinkFixer.exe
+C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\bin\Debug\net8.0-windows\WordHyperlinkFixer.deps.json
+C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\bin\Debug\net8.0-windows\WordHyperlinkFixer.runtimeconfig.json
+C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\bin\Debug\net8.0-windows\WordHyperlinkFixer.dll
+C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\bin\Debug\net8.0-windows\WordHyperlinkFixer.pdb
+C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\obj\Debug\net8.0-windows\WordHyperlinkFixer.Form1.resources
+C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\obj\Debug\net8.0-windows\WordHyperlinkFixer.csproj.GenerateResource.cache
+C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\obj\Debug\net8.0-windows\WordHyperlinkFixer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\obj\Debug\net8.0-windows\WordHyperlinkFixer.AssemblyInfoInputs.cache
+C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\obj\Debug\net8.0-windows\WordHyperlinkFixer.AssemblyInfo.cs
+C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\obj\Debug\net8.0-windows\WordHyperlinkFixer.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\obj\Debug\net8.0-windows\WordHyperlinkFixer.dll
+C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\obj\Debug\net8.0-windows\refint\WordHyperlinkFixer.dll
+C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\obj\Debug\net8.0-windows\WordHyperlinkFixer.pdb
+C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\obj\Debug\net8.0-windows\WordHyperlinkFixer.genruntimeconfig.cache
+C:\Users\Giovanni\Desktop\Repositories\WordHyperlinkFixer\WordHyperlinkFixer\obj\Debug\net8.0-windows\ref\WordHyperlinkFixer.dll
